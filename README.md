@@ -6,6 +6,8 @@ The proposed methodology incorporates image masking to emphasize disease-related
 # Architecture
 ![Sorghum leaf with tar spot](./Images/architecture.jpg)
 
-# Results
+# Algorithm for Severity Count
+![Algorithm](./Images/algorithm.png)
 
+# Results
 ![Classification and Prediction result](./Images/results.png)
